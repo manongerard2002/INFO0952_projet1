@@ -1,8 +1,10 @@
 # Algorithmes génétiques et problème du voyage de commerce
 
+Dans ce projet, on vous propose d’implémenter une petite librairie mettant en œuvre les algorithmes génétiques, qui sont des algorithmes heuristiques permettant de résoudre des problèmes d’optimisation pour lesquels il n’existe pas de solution efficace. Ces algorithmes ne permettent pas d’obtenir une solution optimale à ces problèmes mais permettent pour certains problèmes d’atteindre une solution proche de l’optimal en un temps raisonnable. On appliquera cette librairie pour traiter le problème du voyageur de commerce. Du point de vue de la programmation, l’objectif est de vous apprendre à organiser un programme réparti en plusieurs fichiers, en vous basant sur la plupart des concepts vus au cours (organisation de programmes, type opaque, pointeurs de fonctions, etc.), ainsi que de vous faire faire un peu d’algorithmique pour écrire un code efficace.
+
 ## Score
 
-* Le projet a recu la note de *20/20*
+* Le projet a recu la note de **20/20**
 
 ## Execution
 
